@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "CD - Dua Lipa",
+        "precio": 600,
+        "img": "https://m.media-amazon.com/images/I/61gpr0NTwOL._UF1000,1000_QL80_.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "CD - Billie Eilish",
+        "precio": 645,
+        "img": "https://m.media-amazon.com/images/I/81idxQqxTlL._UF1000,1000_QL80_.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "CD - Vance Joy",
+        "precio": 440,
+        "img": "https://www.lahiguera.net/musicalia/artistas/vance_joy/disco/6280/vance_joy_dream_your_life_away-portada.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "CD - Alphaville",
+        "precio": 620,
+        "img": "https://images.coveralia.com/audio/a/Alphaville-Forever_Young_(CD_Single)-Frontal.jpg",
+        "cantidad": 1
+    }
+]
